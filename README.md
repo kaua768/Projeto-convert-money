@@ -1,7 +1,7 @@
 <h1>Converter dinheiro</h1>
 <br>
 <br>
-<h2>Conversor de dinheiro online</h2>
+<h2>Projeto de conversão de moedas que permite transformar valores entre diferentes moedas de forma rápida e intuitiva, aplicando taxas de câmbio automaticamente.</h2>
 <H2>Tecnologias utilizadas:</H2>
 <P>-HTML</P>
 <P>-CSS</P>
