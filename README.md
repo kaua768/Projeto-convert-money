@@ -1,8 +1,7 @@
-<h1>Easy shopping</h1>
+<h1>Converter dinheiro</h1>
 <br>
 <br>
-<h2>
-Sorteiador online onde deve colocar um numero minimo e o numero maximo que o sorteiador vai sorteiar entre esses numeros. Esse foi um projeto que aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2>Conversor de dinheiro online</h2>
 <H2>Tecnologias utilizadas:</H2>
 <P>-HTML</P>
 <P>-CSS</P>
